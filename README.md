@@ -1,6 +1,7 @@
-### Name : Aakashraj M 
-### Reg.No : 212222100002
-
+```
+Name : Aakashraj M 
+Reg.No : 212222100002
+```
 # EXPERIMENT--04-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD
 
 ## Aim: 
